@@ -11,6 +11,6 @@ function changeCompletely(element, index, array) {
 var animals = ["dog", "cat", "squirrel"];
 
 doToElementsInArray(animals, changeCompletely);
-debug;
+
 // log out animals -- pretty cool, right?
 console.log(animals);
